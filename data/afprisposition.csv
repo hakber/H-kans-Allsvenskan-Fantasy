@@ -1,0 +1,415 @@
+id,Namn,Klubb,Position,Pris
+0.0,Magnus Eriksson,Djurgården,Mittfältare,11.0
+1.0,Oliver Berg,Kalmar FF,Mittfältare,9.0
+2.0,Joel Nilsson,Hammarby,Mittfältare,6.5
+3.0,Erick Otieno,AIK,Försvarare,8.0
+4.0,Victor Edvardsen,Djurgården,Anfallare,10.0
+5.0,Tobias Sana,IFK Göteborg,Mittfältare,8.5
+6.0,Kadir Hodzic,BK Häcken,Försvarare,6.0
+7.0,Gustav Ludwigson,Hammarby,Mittfältare,10.0
+8.0,Sotirios Papagiannopoulos,AIK,Försvarare,7.0
+9.0,Johan Larsson,IF Elfsborg,Försvarare,8.0
+10.0,Veljko Birmancevic,Malmö FF,Mittfältare,10.0
+11.0,Sebastian Larsson,AIK,Mittfältare,9.5
+12.0,Hjalmar Ekdal,Djurgården,Försvarare,7.0
+13.0,Alexander Milosevic,AIK,Försvarare,7.0
+14.0,Nicolás Stefanelli,AIK,Anfallare,8.5
+15.0,Elliot Käck,Djurgården,Försvarare,6.0
+16.0,Linus Wahlqvist,IFK Norrköping,Försvarare,6.0
+17.0,Christian Kouakou,IK Sirius,Anfallare,7.5
+18.0,Simon Strand,IF Elfsborg,Försvarare,6.5
+19.0,Tim Rönning,IF Elfsborg,Målvakt,5.5
+20.0,Elohor Godswill Ekpolo,IFK Norrköping,Försvarare,6.5
+21.0,Oscar Jansson,IFK Norrköping,Målvakt,5.5
+22.0,Anders Christiansen,Malmö FF,Mittfältare,12.0
+23.0,Jeppe Okkels,IF Elfsborg,Mittfältare,7.5
+24.0,Alexander Jeremejeff,BK Häcken,Anfallare,9.0
+25.0,Oliver Stanisic,Varbergs BoIS,Försvarare,5.0
+26.0,Edvin Kurtulus,Hammarby,Försvarare,5.0
+27.0,Alexander Jallow,IFK Göteborg,Försvarare,5.5
+28.0,Leo Väisänen,IF Elfsborg,Försvarare,6.0
+29.0,Mikael Lustig,AIK,Försvarare,6.5
+30.0,Piotr Johansson,Djurgården,Försvarare,6.5
+31.0,Romario Pereira Sipião,Kalmar FF,Mittfältare,6.0
+32.0,Joakim Lindner,Varbergs BoIS,Försvarare,5.0
+33.0,Astrit Selmani,Hammarby,Anfallare,9.5
+34.0,Tashreeq Matthews,Varbergs BoIS,Mittfältare,6.5
+35.0,Jo Inge Berget,Malmö FF,Mittfältare,8.5
+36.0,Mads Fenger,Hammarby,Försvarare,5.5
+37.0,Per Frick,IF Elfsborg,Anfallare,8.0
+38.0,Mattias Bjärsmyr,IFK Göteborg,Försvarare,5.5
+39.0,Jean Carlos de Brito,IFK Norrköping,Försvarare,6.5
+40.0,Jonathan Levi,IFK Norrköping,Mittfältare,9.0
+41.0,Mohanad Jeahze,Hammarby,Försvarare,6.5
+42.0,Marcus Mathisen,IK Sirius,Försvarare,5.0
+43.0,Ishaq Abdulrazak,IFK Norrköping,Mittfältare,5.5
+44.0,Sebastian Ohlsson,Degerfors IF,Försvarare,5.0
+45.0,Nabil Bahoui,AIK,Anfallare,9.0
+46.0,Jacob Bergström,Mjällby AIF,Anfallare,6.5
+47.0,Eric Larsson,Malmö FF,Försvarare,6.5
+48.0,Johan Bertilsson,Degerfors IF,Mittfältare,6.0
+49.0,Amir Al-Ammari,IFK Göteborg,Mittfältare,6.0
+50.0,Bilal Hussein,AIK,Mittfältare,5.5
+51.0,Marcus Berg,IFK Göteborg,Anfallare,11.0
+52.0,Lars Sätra,Kalmar FF,Försvarare,5.0
+53.0,Adi Nalic,Malmö FF,Mittfältare,7.0
+54.0,André Römer,IF Elfsborg,Mittfältare,5.5
+55.0,Carlos Moros Gracia,Mjällby AIF,Försvarare,5.5
+56.0,Jacob Ortmark,IFK Norrköping,Mittfältare,6.5
+57.0,Abdelrahman Saidi,Degerfors IF,Mittfältare,5.5
+58.0,Johan Dahlin,Malmö FF,Målvakt,6.0
+59.0,Rasmus Alm,IF Elfsborg,Mittfältare,7.5
+60.0,Leo Bengtsson,BK Häcken,Mittfältare,7.5
+61.0,Gustaf Berggren,BK Häcken,Mittfältare,5.5
+62.0,Haris Radetinac,Djurgården,Mittfältare,6.5
+63.0,Christos Gravius,Degerfors IF,Mittfältare,5.0
+64.0,Carl Gustafsson,Kalmar FF,Mittfältare,5.0
+65.0,Darijan Bojanic,Hammarby,Mittfältare,8.0
+66.0,Hampus Finndell,Djurgården,Mittfältare,5.5
+67.0,Adam Carlén,Degerfors IF,Mittfältare,5.0
+68.0,Martin Olsson,Malmö FF,Försvarare,6.5
+69.0,Maudo Jarjue,IF Elfsborg,Försvarare,5.5
+70.0,Jacob Widell Zetterström,Djurgården,Målvakt,5.5
+71.0,Rasmus Sjöstedt,Kalmar FF,Försvarare,5.0
+72.0,Anton Liljenbäck,Varbergs BoIS,Försvarare,4.5
+73.0,Peter Abrahamsson,BK Häcken,Målvakt,5.5
+74.0,Adam Ståhl,Mjällby AIF,Försvarare,5.5
+75.0,Marcus Antonsson,IFK Värnamo,Anfallare,6.5
+76.0,Björn Paulsen,Hammarby,Försvarare,5.5
+77.0,Hosam Aiesh,IFK Göteborg,Mittfältare,8.0
+78.0,Ivan Kricak,Mjällby AIF,Försvarare,4.5
+79.0,David Mitov Nilsson,IK Sirius,Målvakt,5.0
+80.0,Laorent Shabani,IK Sirius,Mittfältare,5.5
+81.0,Rasmus Schüller,Djurgården,Mittfältare,5.5
+82.0,Viktor Agardius,IFK Norrköping,Försvarare,5.5
+83.0,Simon Sandberg,Hammarby,Försvarare,5.0
+84.0,Oscar Wendt,IFK Göteborg,Försvarare,6.5
+85.0,Nahir Besara,Hammarby,Mittfältare,8.0
+86.0,Jesper Gustavsson,Mjällby AIF,Mittfältare,5.0
+87.0,Lasse Nielsen,Malmö FF,Försvarare,5.5
+88.0,Marco Lund,IFK Norrköping,Försvarare,5.0
+89.0,Isak Jansson,Kalmar FF,Anfallare,6.0
+90.0,Sören Rieks,Malmö FF,Mittfältare,7.5
+91.0,Carl Johansson,IFK Göteborg,Försvarare,5.5
+92.0,Budimir Janosevic,AIK,Målvakt,4.5
+93.0,Dennis Widgren,Hammarby,Försvarare,4.5
+94.0,Jeppe Andersen,Hammarby,Mittfältare,5.5
+95.0,Simon Olsson,IF Elfsborg,Mittfältare,7.0
+96.0,Zak Elbouzedi,AIK,Mittfältare,7.5
+97.0,Ismael Diawara,Malmö FF,Målvakt,4.5
+98.0,Jon Gudni Fjoluson,Hammarby,Försvarare,5.0
+99.0,Moustafa Zeidan,IK Sirius,Mittfältare,6.5
+100.0,Bénie Traore,BK Häcken,Mittfältare,7.5
+101.0,Nahom Girmai Netabay,Kalmar FF,Mittfältare,5.5
+102.0,Jesper Löfgren,Djurgården,Försvarare,6.0
+103.0,Erdal Rakip,Malmö FF,Mittfältare,5.5
+104.0,Elias Andersson,Djurgården,Mittfältare,6.0
+105.0,Karl Holmberg,Djurgården,Anfallare,7.5
+106.0,Viktor Gustafson,Mjällby AIF,Mittfältare,4.5
+107.0,Sean Sabetkar,Degerfors IF,Försvarare,4.5
+108.0,David Löfquist,Mjällby AIF,Mittfältare,5.5
+109.0,Ari Freyr Skulason,IFK Norrköping,Mittfältare,5.5
+110.0,Mamudu Moro,Mjällby AIF,Anfallare,5.0
+111.0,Joel Asoro,Djurgården,Mittfältare,6.0
+112.0,Adam Hellborg,IK Sirius,Mittfältare,5.0
+113.0,Simon Karlsson Adjei,Varbergs BoIS,Anfallare,5.0
+114.0,Tim Björkström,IK Sirius,Försvarare,4.5
+115.0,Johan Hammar,BK Häcken,Försvarare,5.0
+116.0,Luke Le Roux,Varbergs BoIS,Mittfältare,4.5
+117.0,Alexander Bernhardsson,IF Elfsborg,Mittfältare,6.0
+118.0,Kristoffer Nordfeldt,AIK,Målvakt,6.0
+119.0,Richard Magyar,Hammarby,Försvarare,5.5
+120.0,Dennis Collander,Hammarby,Mittfältare,5.0
+121.0,Erik Lindell,Degerfors IF,Försvarare,4.5
+122.0,Jacob Ondrejka,IF Elfsborg,Mittfältare,7.0
+123.0,Axel Lindahl,Kalmar FF,Försvarare,5.0
+124.0,Simon Thern,IFK Göteborg,Mittfältare,6.0
+125.0,Tobias Carlsson,BK Häcken,Försvarare,4.5
+126.0,Robin Tranberg,Varbergs BoIS,Mittfältare,5.0
+127.0,Gustav Svensson,IFK Göteborg,Mittfältare,5.0
+128.0,Anton Kralj,Degerfors IF,Försvarare,4.5
+129.0,Kristoffer Lund,BK Häcken,Försvarare,5.5
+130.0,Abbe Khalili,Hammarby,Mittfältare,6.5
+131.0,Jamie Roche,IK Sirius,Mittfältare,4.5
+132.0,Robin Simovic,Varbergs BoIS,Anfallare,5.5
+133.0,Aleksandr Vasyutin,Djurgården,Målvakt,5.5
+134.0,Christoffer Nyman,IFK Norrköping,Anfallare,9.5
+135.0,Alfie Whiteman,Degerfors IF,Målvakt,4.5
+136.0,Emmanuel Banda,Djurgården,Mittfältare,5.5
+137.0,Victor Karlsson,Varbergs BoIS,Mittfältare,4.5
+138.0,Andreas Blomqvist,Mjällby AIF,Mittfältare,5.0
+139.0,Saku Ylätupa,GIF Sundsvall,Mittfältare,5.5
+140.0,Sebastian Eriksson,IFK Göteborg,Mittfältare,5.0
+141.0,Kevin Yakob,IFK Göteborg,Mittfältare,5.0
+142.0,Felix Beijmo,Malmö FF,Försvarare,6.0
+143.0,Maic Sema,IFK Norrköping,Mittfältare,5.5
+144.0,Samuel Brolin,Mjällby AIF,Målvakt,5.0
+145.0,Gustaf Norlin,IFK Göteborg,Mittfältare,5.5
+146.0,Alexander Johansson,Varbergs BoIS,Anfallare,5.0
+147.0,Jonas Knudsen,Malmö FF,Försvarare,6.0
+148.0,Williot Swedberg,Hammarby,Mittfältare,5.5
+149.0,Patrick Nwadike,IK Sirius,Försvarare,4.5
+150.0,Edi Sylisufaj,IK Sirius,Anfallare,6.0
+151.0,Oscar Vilhelmsson,IFK Göteborg,Anfallare,6.0
+152.0,Alexander Faltsetas,BK Häcken,Mittfältare,4.5
+153.0,Erik Friberg,BK Häcken,Mittfältare,5.0
+154.0,Kristoffer Khazeni,IFK Norrköping,Mittfältare,5.0
+155.0,Filip Sachpekidis,Kalmar FF,Mittfältare,5.5
+156.0,Hampus Zackrisson,Varbergs BoIS,Försvarare,4.5
+157.0,Ronald Mukiibi,Degerfors IF,Försvarare,4.5
+158.0,Yukiya Sugita,IK Sirius,Mittfältare,6.5
+159.0,Albin Winbo,Varbergs BoIS,Mittfältare,4.5
+160.0,Oliver Dovin,Hammarby,Målvakt,5.0
+161.0,Johan Karlsson,IK Sirius,Försvarare,4.5
+162.0,Filip Rogic,IK Sirius,Mittfältare,6.0
+163.0,Erik Ring,AIK,Mittfältare,5.0
+164.0,Gideon Mensah,Varbergs BoIS,Försvarare,4.0
+165.0,Niklas Moisander,Malmö FF,Försvarare,6.0
+166.0,Enoch Kofi Adu,Mjällby AIF,Mittfältare,4.5
+167.0,Gustav Granath,Degerfors IF,Försvarare,4.5
+168.0,Abdul Malik Abubakari,Malmö FF,Anfallare,6.5
+169.0,Johan Stenmark,Kalmar FF,Försvarare,4.5
+170.0,Sebastian Nanasi,Malmö FF,Mittfältare,6.0
+171.0,August Ahlin,IK Sirius,Målvakt,4.0
+172.0,Jon Birkfeldt,Varbergs BoIS,Försvarare,4.5
+173.0,Sergio Peña,Malmö FF,Mittfältare,7.5
+174.0,Karl Larson,IK Sirius,Försvarare,4.0
+175.0,Hákon Rafn Valdimarsson,IF Elfsborg,Målvakt,4.5
+176.0,Noah Shamoun,Kalmar FF,Mittfältare,4.5
+177.0,Nikola Djurdjic,Degerfors IF,Anfallare,6.0
+178.0,Tom Strannegård,AIK,Mittfältare,4.5
+179.0,Oliver Alfonsi,Varbergs BoIS,Mittfältare,4.5
+180.0,Sveinn Aron Gudjohnsen,IF Elfsborg,Anfallare,6.5
+181.0,Jasse Tuominen,BK Häcken,Anfallare,5.5
+182.0,Christopher Telo,IFK Norrköping,Försvarare,5.0
+183.0,Magnus Wörts,Mjällby AIF,Försvarare,4.5
+184.0,Oscar Lewicki,Malmö FF,Mittfältare,5.0
+185.0,Kevin Wright,IK Sirius,Försvarare,5.0
+186.0,Romain Gall,Malmö FF,Mittfältare,5.0
+187.0,Philip Mårtensson,Varbergs BoIS,Målvakt,4.0
+188.0,Jeffrey Gal,Degerfors IF,Målvakt,4.0
+189.0,Albin Mörfelt,Mjällby AIF,Mittfältare,5.5
+190.0,Ali Youssef,BK Häcken,Mittfältare,5.5
+191.0,Oskar Sverrisson,Varbergs BoIS,Försvarare,4.5
+192.0,Ola Toivonen,Malmö FF,Anfallare,8.0
+193.0,Oliver Zandén,IF Elfsborg,Försvarare,5.0
+194.0,Yasin Ayari,AIK,Mittfältare,5.0
+195.0,Erik Israelsson,Kalmar FF,Mittfältare,5.0
+196.0,Bernardo Vilar Estevão Jeronimo,IFK Göteborg,Försvarare,4.5
+197.0,Justin Salmon,Degerfors IF,Mittfältare,4.5
+198.0,Ahmed Qasem,IF Elfsborg,Mittfältare,4.5
+199.0,Theodore Rask,IFK Norrköping,Försvarare,4.5
+200.0,Elias Olsson,Kalmar FF,Försvarare,4.5
+201.0,Victor Backman,Kalmar FF,Mittfältare,4.5
+202.0,Des Kunst,Varbergs BoIS,Mittfältare,5.0
+203.0,Mayckel Lahdo,Hammarby,Mittfältare,5.5
+204.0,Adam Ingi Benediktsson,IFK Göteborg,Målvakt,4.0
+205.0,André Boman,Varbergs BoIS,Mittfältare,4.5
+206.0,Noah Persson,Mjällby AIF,Försvarare,4.5
+207.0,Tommy Vaiho,IK Sirius,Målvakt,5.0
+208.0,Herman Sjögrell,IK Sirius,Mittfältare,4.5
+209.0,Valgeir Lunddal Fridriksson,BK Häcken,Försvarare,4.5
+210.0,Lucas Lima,IFK Norrköping,Anfallare,5.0
+211.0,Herman Johansson,Mjällby AIF,Försvarare,4.5
+212.0,Sam Johnson,Mjällby AIF,Anfallare,5.0
+213.0,Franklin Tebo,BK Häcken,Försvarare,5.0
+214.0,Adhavan Rajamohan,Degerfors IF,Mittfältare,4.5
+215.0,Albion Ademi,Djurgården,Mittfältare,6.5
+216.0,Per Karlsson,AIK,Försvarare,5.5
+217.0,Samir Maarouf,BK Häcken,Mittfältare,4.5
+218.0,Leo Cornic,Djurgården,Försvarare,5.0
+219.0,Filip Ambroz,IFK Göteborg,Mittfältare,4.5
+220.0,Emmanuel Boateng,IF Elfsborg,Mittfältare,5.0
+221.0,Jack Cooper Love,IF Elfsborg,Anfallare,4.5
+222.0,Isak Hien,Djurgården,Försvarare,5.0
+223.0,Yahav Gurfinkel,IFK Norrköping,Mittfältare,4.5
+224.0,Taylor Silverholt,Mjällby AIF,Anfallare,4.5
+225.0,Loue Bayere Junior,Hammarby,Anfallare,4.5
+226.0,Noah Söderberg,IF Elfsborg,Mittfältare,4.5
+227.0,Adam Petersson,Mjällby AIF,Mittfältare,4.5
+228.0,Markus Björkqvist,Malmö FF,Mittfältare,4.5
+229.0,Samuel Gustafson,BK Häcken,Mittfältare,5.5
+230.0,Jetmir Haliti,AIK,Försvarare,5.5
+231.0,Davor Blazevic,Hammarby,Målvakt,4.5
+232.0,Dino Salihovic,IFK Norrköping,Försvarare,4.0
+233.0,Lukas Rhöse,Kalmar FF,Försvarare,4.0
+234.0,Noah Eile,Mjällby AIF,Försvarare,4.5
+235.0,Josip Filipovic,Mjällby AIF,Försvarare,4.0
+236.0,Aron Bjarnason,IK Sirius,Mittfältare,5.0
+237.0,Montader Madjed,Varbergs BoIS,Mittfältare,4.5
+238.0,Taha Ali,Helsingborgs IF,Mittfältare,6.0
+239.0,Gustaf Lagerbielke,IF Elfsborg,Försvarare,4.5
+240.0,Sebastian Lagerlund,BK Häcken,Försvarare,4.0
+241.0,Egzon Binaku,IFK Norrköping,Försvarare,4.5
+242.0,Edvin Tellgren,IFK Norrköping,Försvarare,4.0
+243.0,Jóhannes Kristinn Bjarnason,IFK Norrköping,Mittfältare,4.5
+244.0,Emanuel Chabo,IFK Norrköping,Mittfältare,4.5
+245.0,Johan Arvidsson,Kalmar FF,Mittfältare,4.5
+246.0,Rasmus Cronvall,Varbergs BoIS,Anfallare,4.5
+247.0,Otto Rosengren,Mjällby AIF,Mittfältare,4.5
+248.0,Jakob Andersson,Degerfors IF,Mittfältare,4.5
+249.0,Daniel Krezic,Degerfors IF,Mittfältare,5.0
+250.0,Matej Chalus,Malmö FF,Försvarare,6.5
+251.0,Dennis Hadzikadunic,Malmö FF,Försvarare,6.5
+252.0,David Edvardsson,Malmö FF,Mittfältare,4.5
+253.0,Patriot Sejdiu,Malmö FF,Mittfältare,4.5
+254.0,Amel Mujanic,Malmö FF,Mittfältare,4.5
+255.0,Samuel Adrian,Malmö FF,Mittfältare,4.5
+256.0,Hugo Larsson,Malmö FF,Mittfältare,5.0
+257.0,Isaac Kiese Thelin,Malmö FF,Anfallare,10.5
+258.0,Sebastian Selin,Hammarby,Målvakt,4.0
+259.0,Kalle Björklund,Hammarby,Försvarare,4.0
+260.0,Loret Sadiku,Hammarby,Mittfältare,5.0
+261.0,Jusef Erabi,Hammarby,Anfallare,5.0
+262.0,Andreas Murbeck,IK Sirius,Försvarare,4.5
+263.0,Kristopher Da Graca,IK Sirius,Försvarare,4.5
+264.0,Filip Olsson,IK Sirius,Mittfältare,5.0
+265.0,Warner Hahn,IFK Göteborg,Målvakt,5.0
+266.0,Gustav Lillienberg,IFK Göteborg,Målvakt,4.0
+267.0,Emil Salomonsson,IFK Göteborg,Försvarare,6.0
+268.0,Hussein Carneil,IFK Göteborg,Mittfältare,4.5
+269.0,Lucas Kåhed,IFK Göteborg,Anfallare,4.5
+270.0,Patrik Karlsson-Lagemyr,IFK Göteborg,Anfallare,6.0
+271.0,Erik Sorga,IFK Göteborg,Anfallare,5.5
+272.0,Alfons Nygaard,IFK Göteborg,Anfallare,4.5
+273.0,Gustav Henriksson,IF Elfsborg,Försvarare,5.5
+274.0,Viktor Widell,IF Elfsborg,Försvarare,4.0
+275.0,Kevin Holmén,IF Elfsborg,Mittfältare,4.5
+276.0,Michael Baidoo,IF Elfsborg,Mittfältare,5.5
+277.0,Prince Isaac Kouame,IF Elfsborg,Mittfältare,4.5
+278.0,Besfort Zeneli,IF Elfsborg,Mittfältare,4.5
+279.0,Oscar Aga,IF Elfsborg,Anfallare,6.0
+280.0,Jonathan Rasheed,BK Häcken,Målvakt,4.0
+281.0,Even Hovland,BK Häcken,Försvarare,5.5
+282.0,Tomas Totland,BK Häcken,Försvarare,6.0
+283.0,Oscar Uddenäs,BK Häcken,Mittfältare,6.5
+284.0,Ture Widestrand,BK Häcken,Mittfältare,4.5
+285.0,Amane Romeo,BK Häcken,Mittfältare,4.5
+286.0,Mikkel Rygaard,BK Häcken,Mittfältare,7.0
+287.0,Ibrahim Sadiq,BK Häcken,Mittfältare,5.5
+288.0,Leonardo Farah Shahin,BK Häcken,Anfallare,4.5
+289.0,Linus Tagesson,Djurgården,Försvarare,4.0
+290.0,Frank Odhiambo,Djurgården,Försvarare,4.5
+291.0,Pierre Bengtsson,Djurgården,Försvarare,7.0
+292.0,Melker Jonsson,Djurgården,Försvarare,4.0
+293.0,Axel Wallenborg,Djurgården,Försvarare,4.0
+294.0,Gustav Wikheim,Djurgården,Mittfältare,8.0
+295.0,Sead Haksabanovic,Djurgården,Mittfältare,12.0
+296.0,Adam Bergmark Wiberg,Djurgården,Anfallare,5.0
+297.0,Julius Lindgren,IFK Norrköping,Målvakt,4.0
+298.0,Wille Jakobsson,IFK Norrköping,Målvakt,4.0
+,Otto Lindell,IFK Norrköping,Målvakt,4.0
+299.0,Daniel Eid,IFK Norrköping,Försvarare,5.5
+300.0,Oliver Stefansson,IFK Norrköping,Försvarare,4.0
+,Filip Dagerstål,IFK Norrköping,Försvarare,6.0
+301.0,Eman Markovic,IFK Norrköping,Mittfältare,7.0
+302.0,Ricardo Friedrich,Kalmar FF,Målvakt,5.0
+303.0,Jakob Kindberg,Kalmar FF,Målvakt,4.0
+304.0,David Kristjan Olafsson,Kalmar FF,Försvarare,5.0
+305.0,Kevin Jensen,Kalmar FF,Mittfältare,5.5
+306.0,Simon Skrabb,Kalmar FF,Mittfältare,7.0
+307.0,Edvin Crona,Kalmar FF,Anfallare,4.5
+308.0,Alex Mortensen,Kalmar FF,Anfallare,4.5
+309.0,Josafat Mendes,AIK,Försvarare,6.0
+310.0,Rasmus Bonde,AIK,Försvarare,4.0
+311.0,Axel Björnström,AIK,Försvarare,6.5
+312.0,Jesper Ceesay,AIK,Mittfältare,4.5
+313.0,Amar Abdirahman Ahmed,AIK,Mittfältare,5.0
+314.0,Henry Atola Meja,AIK,Anfallare,5.5
+315.0,Fredrik Andersson,Varbergs BoIS,Målvakt,5.0
+316.0,Viktor Dryselius,Varbergs BoIS,Målvakt,4.0
+317.0,David Bendrik,Varbergs BoIS,Försvarare,4.0
+318.0,Gustav Bendrik,Varbergs BoIS,Försvarare,4.0
+319.0,Noah Johansson,Varbergs BoIS,Försvarare,4.0
+320.0,Flamur Dzelili,Varbergs BoIS,Mittfältare,4.5
+321.0,Ismet Lushaku,Varbergs BoIS,Mittfältare,4.5
+322.0,Eliton Junior,Varbergs BoIS,Mittfältare,5.0
+323.0,Joel Sundström,Varbergs BoIS,Mittfältare,4.5
+324.0,Ali Bdeir,Varbergs BoIS,Anfallare,4.5
+325.0,Noel Törnqvist,Mjällby AIF,Målvakt,4.0
+326.0,Marc Tokich,Mjällby AIF,Försvarare,4.0
+327.0,Ludwig Carlius,Mjällby AIF,Mittfältare,4.5
+328.0,Silas Nwankwo,Mjällby AIF,Anfallare,5.0
+329.0,Rasmus Wiedesheim-Paul,Mjällby AIF,Anfallare,6.5
+330.0,Oscar Wallin,Degerfors IF,Försvarare,4.0
+331.0,Joseph-Claude Gyau,Degerfors IF,Försvarare,5.0
+332.0,Diego Campos,Degerfors IF,Mittfältare,6.0
+333.0,Rasmus Örqvist,Degerfors IF,Mittfältare,4.5
+334.0,Dijan Vukojevic,Degerfors IF,Anfallare,6.5
+335.0,Andreas Andersson,GIF Sundsvall,Målvakt,4.0
+336.0,Gustav Molin,GIF Sundsvall,Målvakt,4.0
+337.0,Oscar Jonsson,GIF Sundsvall,Målvakt,4.0
+338.0,Oscar Linnér,GIF Sundsvall,Målvakt,4.5
+339.0,Rasmus Lindkvist,GIF Sundsvall,Försvarare,4.5
+340.0,Forrest Lasso,GIF Sundsvall,Försvarare,4.5
+341.0,Anton Eriksson,GIF Sundsvall,Försvarare,4.5
+342.0,Alexander Blomqvist,GIF Sundsvall,Försvarare,5.0
+343.0,Dennis Olsson,GIF Sundsvall,Försvarare,5.0
+344.0,Robert Lundström,GIF Sundsvall,Försvarare,4.5
+345.0,Teodor Stenshagen,GIF Sundsvall,Försvarare,4.0
+346.0,Niklas Dahlström,GIF Sundsvall,Försvarare,4.5
+347.0,Marcus Burman,GIF Sundsvall,Mittfältare,5.0
+348.0,Daniel Stensson,GIF Sundsvall,Mittfältare,4.5
+349.0,Erik Andersson,GIF Sundsvall,Mittfältare,5.5
+350.0,Pontus Silfwer,GIF Sundsvall,Mittfältare,5.0
+351.0,Paya Pichkah,GIF Sundsvall,Mittfältare,4.5
+352.0,Jesper Carström,GIF Sundsvall,Mittfältare,4.5
+353.0,Ludvig Nåvik,GIF Sundsvall,Mittfältare,4.5
+354.0,Alexander Larsson,GIF Sundsvall,Anfallare,4.5
+355.0,Linus Hallenius,GIF Sundsvall,Anfallare,7.0
+356.0,Pontus Engblom,GIF Sundsvall,Anfallare,6.5
+357.0,Johan Bengtsson,GIF Sundsvall,Anfallare,4.5
+,Ronaldo Damus,GIF Sundsvall,Anfallare,5.0
+358.0,Filip Eriksson,IFK Värnamo,Målvakt,4.0
+359.0,Pilip Vaitsiakhovich,IFK Värnamo,Målvakt,4.5
+360.0,Hampus Gustafsson,IFK Värnamo,Målvakt,4.0
+361.0,Francis de Vries,IFK Värnamo,Försvarare,4.0
+362.0,Victor Larsson,IFK Värnamo,Försvarare,4.0
+363.0,Freddy Winsth,IFK Värnamo,Försvarare,5.0
+364.0,Victor Eriksson,IFK Värnamo,Försvarare,4.5
+365.0,Pontus Kindberg,IFK Värnamo,Försvarare,4.0
+366.0,Robin Tihi,IFK Värnamo,Försvarare,4.5
+367.0,Evaldo Netinho,IFK Värnamo,Försvarare,4.5
+368.0,Hampus Nässtrom,IFK Värnamo,Försvarare,4.5
+369.0,Felix Wennergrund,IFK Värnamo,Mittfältare,4.5
+370.0,Charlie Vindehall,IFK Värnamo,Mittfältare,4.5
+371.0,William Kenndal,IFK Värnamo,Mittfältare,4.5
+372.0,Oscar Johansson,IFK Värnamo,Mittfältare,5.5
+373.0,Erick Brendon,IFK Värnamo,Mittfältare,5.0
+374.0,Jesper Dickman,IFK Värnamo,Mittfältare,5.0
+375.0,Wenderson Oliveira,IFK Värnamo,Mittfältare,5.0
+376.0,Haris Avdiu,IFK Värnamo,Mittfältare,5.0
+377.0,Abdussalam Magashy,IFK Värnamo,Mittfältare,5.0
+378.0,Nils Wallenberg,IFK Värnamo,Mittfältare,4.5
+379.0,Johnbosco Samuel Kalu,IFK Värnamo,Mittfältare,4.5
+380.0,Edvin Becirovic,IFK Värnamo,Anfallare,4.5
+381.0,Victor Andersson,IFK Värnamo,Anfallare,4.5
+382.0,Christian Moses,IFK Värnamo,Anfallare,5.0
+383.0,Anders Lindegaard,Helsingborgs IF,Målvakt,4.5
+384.0,Alexander Nilsson,Helsingborgs IF,Målvakt,4.0
+385.0,Kalle Joelsson,Helsingborgs IF,Målvakt,4.5
+386.0,Nils Arvidsson,Helsingborgs IF,Målvakt,4.0
+387.0,Ravy Tsouka,Helsingborgs IF,Försvarare,4.0
+388.0,Casper Widell,Helsingborgs IF,Försvarare,4.0
+389.0,Viljormur Davidsen,Helsingborgs IF,Försvarare,4.5
+390.0,Jakob Voelkerling Persson,Helsingborgs IF,Försvarare,4.0
+391.0,Charlie Weberg,Helsingborgs IF,Försvarare,4.5
+392.0,Ali Suljic,Helsingborgs IF,Försvarare,4.5
+393.0,Emil Hellman,Helsingborgs IF,Försvarare,4.0
+394.0,Victor Blixt,Helsingborgs IF,Försvarare,4.0
+395.0,Brandur Hendriksson,Helsingborgs IF,Mittfältare,5.5
+396.0,Andreas Landgren,Helsingborgs IF,Mittfältare,4.5
+397.0,Viktor Lundberg,Helsingborgs IF,Mittfältare,5.0
+398.0,Sumar Almadjed,Helsingborgs IF,Mittfältare,4.5
+399.0,Adam Kaied,Helsingborgs IF,Mittfältare,5.0
+400.0,Lucas Lingman,Helsingborgs IF,Mittfältare,6.0
+401.0,Victor Göransson,Helsingborgs IF,Mittfältare,4.5
+402.0,Benjamin Acquah,Helsingborgs IF,Mittfältare,4.5
+403.0,Rasmus Jönsson,Helsingborgs IF,Mittfältare,5.5
+404.0,Wilhelm Loeper,Helsingborgs IF,Mittfältare,6.5
+405.0,Joseph Amoako,Helsingborgs IF,Mittfältare,5.0
+406.0,Albert Ejupi,Helsingborgs IF,Mittfältare,4.5
+407.0,Anthony Van den Hurk,Helsingborgs IF,Anfallare,7.0
+408.0,Assad Al Hamlawi,Helsingborgs IF,Anfallare,4.5
+409.0,Rasmus Karjalainen,Helsingborgs IF,Anfallare,5.0
+410.0,Dennis Olsson,Helsingborgs IF,Anfallare,4.5
